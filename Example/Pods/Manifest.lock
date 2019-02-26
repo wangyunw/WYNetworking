@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WYNetworking (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WYNetworking (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  WYNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WYNetworking: 7483f4a8db819e07c391a03a98db0dbe08d2640a
+
+PODFILE CHECKSUM: c94cb29f1b709921f320289df63d54c81294927a
+
+COCOAPODS: 1.5.0

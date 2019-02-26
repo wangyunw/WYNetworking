@@ -1,0 +1,6 @@
+framework module WYNetworking {
+  umbrella header "WYNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

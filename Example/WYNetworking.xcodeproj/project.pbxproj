@@ -37,8 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1756235C239351A41F6EC867 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		3CF6923B354C48CDF08ABB51 /* WYNetworking.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = WYNetworking.podspec; path = ../WYNetworking.podspec; sourceTree = "<group>"; };
+		1756235C239351A41F6EC867 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		3CF6923B354C48CDF08ABB51 /* WYNetworking.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WYNetworking.podspec; path = ../WYNetworking.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003F58A195388D20070C39A /* WYNetworking_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WYNetworking_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -66,7 +66,7 @@
 		BC8279FE34DC3BC06B8B2463 /* Pods_WYNetworking_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WYNetworking_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C373AB3B87E205C5176C104D /* Pods-WYNetworking_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WYNetworking_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WYNetworking_Tests/Pods-WYNetworking_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E9BEDD386A3103AB75ACD8E3 /* Pods-WYNetworking_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WYNetworking_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WYNetworking_Tests/Pods-WYNetworking_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		EF0BC92E180006B86D13DA9A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		EF0BC92E180006B86D13DA9A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
